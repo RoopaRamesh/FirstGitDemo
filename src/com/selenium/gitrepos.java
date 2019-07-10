@@ -11,6 +11,7 @@ public class gitrepos {
 		System.out.println("git status");
 		System.out.print("git add .");
 		System.out.println("git commit -m 'comment'");
+		System.out.println("git push origin branch");
 
 	}
 
